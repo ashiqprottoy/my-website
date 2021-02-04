@@ -1,0 +1,174 @@
+@media (max-width:900px){
+    .scl1pic,.scl2pic {
+        width: 400px;
+    }
+    
+    .aboutpolice {
+        margin-left: 20px;
+        width: 31%;
+    }
+    
+    .aboutpolice h3 {
+        font-size: 20px;
+        width: 100%;
+    }
+     .aboutpolice p {
+        line-height: 26px;
+        font-size: 13px;
+    }
+    .policescl {
+        position: unset;
+    }
+
+    
+    .scl1pic a img,.scl2pic a img {
+        max-width: 393px;
+    }
+    
+    .aboutpolice {
+        width: 100%;
+        margin-right: 2px;
+    }
+    section#foot {
+        width: 100%;
+    }
+    
+    .hirewrap {
+        padding: 0px 20px;
+        display: block;
+    }
+    
+    .hireabt {
+        margin-left: 23px;
+    }
+    
+    .hireabt p {
+        width: 100%;
+    }
+    
+    .hire {
+        position: relative;
+        margin: 0px 20px 0px 20px;
+        /* left: 50%; */
+        /* right: 50%; */
+        /* width: 52%; */
+        margin: auto;
+        display: block;
+    }
+    
+div#school {
+    width: 100%;
+}
+
+.school1 {
+    width: 100%;
+    margin: auto;
+    padding: 56px 0px 0px 0px;
+}
+
+span.blink {
+    /* margin: 100px 0px; */
+    top: 26px;
+    position: relative;
+}
+div#school {
+    width: 100%;
+}
+
+.wrappercon {
+    display: block;
+}
+
+.messegebx {
+    width: 100%;
+    margin: auto;
+}
+
+
+div#a2 {
+    padding: 0px 81px;
+    width: 100%;
+}
+
+div#a1 {
+    width: 100%;
+    padding-bottom: 22px;
+}
+
+    
+}
+@media (max-width:620px){
+    .con1 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width:590px){
+
+    .port {
+        position: relative;
+        left: 0px;
+        top: -2px;
+        display: flex;
+    }
+    
+    h1#button {
+        font-size: 58px;
+        line-height: normal;
+
+        padding: 0px 59px 0px 10px;
+        max-width: 276px;
+    }
+    .headsec:before {
+        z-index: 0;
+    }
+    
+    a.portf {height: 54px;}
+    
+    p.cre {
+        margin: 0;
+        padding-left: 11px;
+    }
+    .policescl {
+        display: block;
+    }
+    
+    .aboutpolice {
+        margin: 0px 0px 20px 5px;
+    }
+
+}
+@media (max-width: 510px){
+    a#linkd {
+        display: block;
+        margin: auto;
+        width: 97px;
+        margin-top: 27px;
+    }
+    
+    img.site1 {
+        width: 100px;
+    }
+    
+    section#sos {
+        height: 452px;
+    }
+    
+    .sites {
+        margin-top: 65px;
+    }
+}
+@media (max-width:400px){
+    input[type="text"] {
+        width: 219px;
+        font-size: 10px;
+    }
+    
+    .rating {
+        float: left;
+    }
+    i.fas.fa-angle-double-up {
+        font-size: 19px;
+    }
+}
+
